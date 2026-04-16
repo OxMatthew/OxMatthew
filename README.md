@@ -14,5 +14,3 @@ Website Security
 •
 Network Enumeration & Vulnerability Assessment
 •
-CTF Challenges (BSides)
-📂 Portfolio Highlights
