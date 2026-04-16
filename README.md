@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**OxMatthew/OxMatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I’m Matthew
+I’m an aspiring cybersecurity professional focused on offensive security and red teaming. Currently building my foundation in networking and security while doing hands-on labs, CTFs, and hardware tinkering.
+🔐 Certifications & Training
+•
+Certifications: ISC2 Certified in Cybersecurity (CC) — ✅ Passed
+•
+In Progress: CompTIA Network+ (Targeting May 2026), CompTIA Security+
+•
+⚔️ Focus Areas
+•
+Offensive Security / Red Teaming
+•
+Website Security
+•
+Network Enumeration & Vulnerability Assessment
+•
+CTF Challenges (BSides)
+📂 Portfolio Highlights
